@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\bin\Debug\14_ControlPestañas.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\bin\Debug\14_ControlPestañas.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\bin\Debug\14_ControlPestañas.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\obj\Debug\14_ControlPestañas.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\obj\Debug\_14_ControlPestañas.Form1.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\obj\Debug\_14_ControlPestañas.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\obj\Debug\14_ControlPestañas.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\obj\Debug\14_ControlPestañas.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\obj\Debug\14_ControlPestañas.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\obj\Debug\14_ControlPestañas.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\14_ControlPestañas\14_ControlPestañas\obj\Debug\14_ControlPestañas.exe.config

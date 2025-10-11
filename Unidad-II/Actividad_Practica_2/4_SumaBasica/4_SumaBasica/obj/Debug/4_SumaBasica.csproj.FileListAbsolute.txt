@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\bin\Debug\4_SumaBasica.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\bin\Debug\4_SumaBasica.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\bin\Debug\4_SumaBasica.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\obj\Debug\4_SumaBasica.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\obj\Debug\_4_SumaBasica.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\obj\Debug\_4_SumaBasica.SumaBasica.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\obj\Debug\4_SumaBasica.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\obj\Debug\4_SumaBasica.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\obj\Debug\4_SumaBasica.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\obj\Debug\4_SumaBasica.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\4_SumaBasica\4_SumaBasica\obj\Debug\4_SumaBasica.exe.config

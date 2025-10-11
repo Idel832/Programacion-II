@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\bin\Debug\13_Barra de progreso.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\bin\Debug\13_Barra de progreso.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\bin\Debug\13_Barra de progreso.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\obj\Debug\13_Barra de progreso.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\obj\Debug\_13_Barra_de_progreso.BarraProgreso.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\obj\Debug\_13_Barra_de_progreso.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\obj\Debug\13_Barra de progreso.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\obj\Debug\13_Barra de progreso.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\obj\Debug\13_Barra de progreso.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\obj\Debug\13_Barra de progreso.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\13_Barra de progreso\13_Barra de progreso\obj\Debug\13_Barra de progreso.exe.config

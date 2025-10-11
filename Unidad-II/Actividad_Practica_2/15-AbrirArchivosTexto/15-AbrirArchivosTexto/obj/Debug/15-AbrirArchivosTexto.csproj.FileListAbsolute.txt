@@ -1,0 +1,22 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\bin\Debug\15-AbrirArchivosTexto.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\bin\Debug\15-AbrirArchivosTexto.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\bin\Debug\15-AbrirArchivosTexto.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\_15_AbrirArchivosTexto.Form1.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\_15_AbrirArchivosTexto.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\bin\Debug\15-AbrirArchivosTexto.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\bin\Debug\15-AbrirArchivosTexto.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\bin\Debug\15-AbrirArchivosTexto.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\_15_AbrirArchivosTexto.Form_Main.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\_15_AbrirArchivosTexto.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\15-AbrirArchivosTexto\15-AbrirArchivosTexto\obj\Debug\15-AbrirArchivosTexto.pdb

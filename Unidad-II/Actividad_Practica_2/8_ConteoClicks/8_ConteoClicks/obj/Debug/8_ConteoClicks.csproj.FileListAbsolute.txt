@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\bin\Debug\8_ConteoClicks.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\bin\Debug\8_ConteoClicks.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\bin\Debug\8_ConteoClicks.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\obj\Debug\8_ConteoClicks.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\obj\Debug\_8_ConteoClicks.ConteoClicks.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\obj\Debug\_8_ConteoClicks.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\obj\Debug\8_ConteoClicks.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\obj\Debug\8_ConteoClicks.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\obj\Debug\8_ConteoClicks.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\obj\Debug\8_ConteoClicks.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\8_ConteoClicks\8_ConteoClicks\obj\Debug\8_ConteoClicks.exe.config

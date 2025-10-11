@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_2\\Actividad_Practica_2\\8_ConteoClicks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243EDFE4-9626-4735-B032-88D711DE7D15}|8_ConteoClicks\\8_ConteoClicks.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_2\\actividad_practica_2\\8_conteoclicks\\8_conteoclicks\\conteoclicks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{243EDFE4-9626-4735-B032-88D711DE7D15}|8_ConteoClicks\\8_ConteoClicks.csproj|solutionrelative:8_conteoclicks\\conteoclicks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243EDFE4-9626-4735-B032-88D711DE7D15}|8_ConteoClicks\\8_ConteoClicks.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_2\\actividad_practica_2\\8_conteoclicks\\8_conteoclicks\\conteoclicks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EDFE4-9626-4735-B032-88D711DE7D15}|8_ConteoClicks\\8_ConteoClicks.csproj|solutionrelative:8_conteoclicks\\conteoclicks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConteoClicks.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_2\\Actividad_Practica_2\\8_ConteoClicks\\8_ConteoClicks\\ConteoClicks.cs",
+              "RelativeDocumentMoniker": "8_ConteoClicks\\ConteoClicks.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_2\\Actividad_Practica_2\\8_ConteoClicks\\8_ConteoClicks\\ConteoClicks.cs",
+              "RelativeToolTip": "8_ConteoClicks\\ConteoClicks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:43:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConteoClicks.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_2\\Actividad_Practica_2\\8_ConteoClicks\\8_ConteoClicks\\ConteoClicks.cs",
+              "RelativeDocumentMoniker": "8_ConteoClicks\\ConteoClicks.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_2\\Actividad_Practica_2\\8_ConteoClicks\\8_ConteoClicks\\ConteoClicks.cs [Design]",
+              "RelativeToolTip": "8_ConteoClicks\\ConteoClicks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:39:46.81Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

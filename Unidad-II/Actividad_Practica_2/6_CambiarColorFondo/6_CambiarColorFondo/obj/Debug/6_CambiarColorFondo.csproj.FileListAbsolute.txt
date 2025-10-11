@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\bin\Debug\6_CambiarColorFondo.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\bin\Debug\6_CambiarColorFondo.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\bin\Debug\6_CambiarColorFondo.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\obj\Debug\6_CambiarColorFondo.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\obj\Debug\_6_CambiarColorFondo.CambiarColorFondo.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\obj\Debug\_6_CambiarColorFondo.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\obj\Debug\6_CambiarColorFondo.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\obj\Debug\6_CambiarColorFondo.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\obj\Debug\6_CambiarColorFondo.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\obj\Debug\6_CambiarColorFondo.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\6_CambiarColorFondo\6_CambiarColorFondo\obj\Debug\6_CambiarColorFondo.exe.config

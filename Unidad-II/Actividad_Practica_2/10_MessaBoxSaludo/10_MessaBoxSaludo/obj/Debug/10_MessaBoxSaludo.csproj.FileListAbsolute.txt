@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\bin\Debug\10_MessaBoxSaludo.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\bin\Debug\10_MessaBoxSaludo.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\bin\Debug\10_MessaBoxSaludo.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\obj\Debug\10_MessaBoxSaludo.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\obj\Debug\_10_MessaBoxSaludo.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\obj\Debug\10_MessaBoxSaludo.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\obj\Debug\10_MessaBoxSaludo.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\obj\Debug\10_MessaBoxSaludo.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\obj\Debug\10_MessaBoxSaludo.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\obj\Debug\10_MessaBoxSaludo.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\10_MessaBoxSaludo\10_MessaBoxSaludo\obj\Debug\_10_MessaBoxSaludo.MessaBoxSaludo.resources

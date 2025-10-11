@@ -1,0 +1,22 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\bin\Debug\16-CalculadoraSimple.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\bin\Debug\16-CalculadoraSimple.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\bin\Debug\16-CalculadoraSimple.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\_16_CalculadoraSimple.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\_16_CalculadoraSimple.Form_Main.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\bin\Debug\16-CalculadoraSimple.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\bin\Debug\16-CalculadoraSimple.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\bin\Debug\16-CalculadoraSimple.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\_16_CalculadoraSimple.Form_Main.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\_16_CalculadoraSimple.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\16-CalculadoraSimple\16-CalculadoraSimple\obj\Debug\16-CalculadoraSimple.pdb

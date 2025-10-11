@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\bin\Debug\5_MostrarSelección.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\bin\Debug\5_MostrarSelección.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\bin\Debug\5_MostrarSelección.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\obj\Debug\5_MostrarSelección.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\obj\Debug\_5_MostrarSelección.MostrarSelección.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\obj\Debug\_5_MostrarSelección.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\obj\Debug\5_MostrarSelección.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\obj\Debug\5_MostrarSelección.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\obj\Debug\5_MostrarSelección.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\obj\Debug\5_MostrarSelección.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\5_MostrarSelección\5_MostrarSelección\obj\Debug\5_MostrarSelección.exe.config

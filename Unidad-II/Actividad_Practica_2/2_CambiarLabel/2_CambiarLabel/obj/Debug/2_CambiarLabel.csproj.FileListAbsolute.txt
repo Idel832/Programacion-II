@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\bin\Debug\2_CambiarLabel.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\bin\Debug\2_CambiarLabel.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\bin\Debug\2_CambiarLabel.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\obj\Debug\2_CambiarLabel.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\obj\Debug\_2_CambiarLabel.CambiarLabel.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\obj\Debug\_2_CambiarLabel.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\obj\Debug\2_CambiarLabel.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\obj\Debug\2_CambiarLabel.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\obj\Debug\2_CambiarLabel.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\obj\Debug\2_CambiarLabel.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\2_CambiarLabel\2_CambiarLabel\obj\Debug\2_CambiarLabel.exe.config

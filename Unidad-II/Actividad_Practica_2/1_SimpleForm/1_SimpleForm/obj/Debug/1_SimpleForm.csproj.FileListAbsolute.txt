@@ -1,0 +1,10 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\bin\Debug\1_SimpleForm.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\bin\Debug\1_SimpleForm.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\bin\Debug\1_SimpleForm.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\obj\Debug\1_SimpleForm.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\obj\Debug\_1_SimpleForm.Form1.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\obj\Debug\_1_SimpleForm.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\obj\Debug\1_SimpleForm.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\obj\Debug\1_SimpleForm.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\obj\Debug\1_SimpleForm.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\1_SimpleForm\1_SimpleForm\obj\Debug\1_SimpleForm.pdb

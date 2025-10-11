@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\bin\Debug\12_ConvertirCtoF.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\bin\Debug\12_ConvertirCtoF.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\bin\Debug\12_ConvertirCtoF.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\obj\Debug\12_ConvertirCtoF.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\obj\Debug\_12_ConvertirCtoF.ConvertirCtoF.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\obj\Debug\_12_ConvertirCtoF.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\obj\Debug\12_ConvertirCtoF.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\obj\Debug\12_ConvertirCtoF.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\obj\Debug\12_ConvertirCtoF.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\obj\Debug\12_ConvertirCtoF.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\12_ConvertirCtoF\12_ConvertirCtoF\obj\Debug\12_ConvertirCtoF.exe.config

@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\bin\Debug\9_ValidarNumero.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\bin\Debug\9_ValidarNumero.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\bin\Debug\9_ValidarNumero.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\obj\Debug\9_ValidarNumero.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\obj\Debug\_9_ValidarNumero.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\obj\Debug\_9_ValidarNumero.ValidarNumero.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\obj\Debug\9_ValidarNumero.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\obj\Debug\9_ValidarNumero.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\obj\Debug\9_ValidarNumero.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\obj\Debug\9_ValidarNumero.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\9_ValidarNumero\9_ValidarNumero\obj\Debug\9_ValidarNumero.exe.config

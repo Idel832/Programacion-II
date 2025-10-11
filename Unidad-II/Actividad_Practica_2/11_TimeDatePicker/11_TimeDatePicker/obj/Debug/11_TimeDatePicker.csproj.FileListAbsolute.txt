@@ -1,0 +1,11 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\bin\Debug\11_TimeDatePicker.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\bin\Debug\11_TimeDatePicker.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\bin\Debug\11_TimeDatePicker.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\obj\Debug\11_TimeDatePicker.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\obj\Debug\_11_TimeDatePicker.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\obj\Debug\11_TimeDatePicker.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\obj\Debug\11_TimeDatePicker.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\obj\Debug\11_TimeDatePicker.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\obj\Debug\11_TimeDatePicker.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\obj\Debug\11_TimeDatePicker.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\11_TimeDatePicker\11_TimeDatePicker\obj\Debug\_11_TimeDatePicker.TimeDatePicker.resources

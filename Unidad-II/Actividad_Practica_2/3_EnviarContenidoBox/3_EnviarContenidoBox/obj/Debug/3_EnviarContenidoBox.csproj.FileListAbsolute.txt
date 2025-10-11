@@ -1,0 +1,10 @@
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\bin\Debug\3_EnviarContenidoBox.exe.config
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\bin\Debug\3_EnviarContenidoBox.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\bin\Debug\3_EnviarContenidoBox.pdb
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\obj\Debug\3_EnviarContenidoBox.csproj.AssemblyReference.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\obj\Debug\_3_EnviarContenidoBox.EnviarContenidoBox.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\obj\Debug\_3_EnviarContenidoBox.Properties.Resources.resources
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\obj\Debug\3_EnviarContenidoBox.csproj.GenerateResource.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\obj\Debug\3_EnviarContenidoBox.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\obj\Debug\3_EnviarContenidoBox.exe
+D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_2\Actividad_Practica_2\3_EnviarContenidoBox\3_EnviarContenidoBox\obj\Debug\3_EnviarContenidoBox.pdb
