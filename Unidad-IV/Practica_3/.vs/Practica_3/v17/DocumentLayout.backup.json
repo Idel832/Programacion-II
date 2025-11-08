@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_3\\practica_3\\practica_3\\sql_scripts\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\sql_scripts\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_3\\practica_3\\practica_3\\sql_scripts\\micontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\sql_scripts\\micontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_3\\practica_3\\practica_3\\sql_scripts\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\sql_scripts\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_3\\practica_3\\practica_3\\sql_scripts\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\sql_scripts\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_3\\practica_3\\practica_3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\practica_3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_3\\practica_3\\practica_3\\sql_scripts\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\sql_scripts\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\practica_3\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\practica_3\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\practica_3\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\practica_3\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\practica_3\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_3\\practica_3\\practica_3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_3\\practica_3\\practica_3\\productos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\productos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\practica_3\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\practica_3\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|Practica_3\\Practica_3.csproj|solutionrelative:practica_3\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categorias.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Categorias.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Categorias.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Categorias.cs [Design]",
+              "RelativeToolTip": "Practica_3\\Categorias.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:04:57.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Menu.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Menu.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Menu.cs",
+              "RelativeToolTip": "Practica_3\\Menu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA9wBwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:21:31.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\Producto.cs",
+              "RelativeDocumentMoniker": "Practica_3\\SQL_Scripts\\Producto.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\Producto.cs",
+              "RelativeToolTip": "Practica_3\\SQL_Scripts\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:07:05.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiContexto.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\MiContexto.cs",
+              "RelativeDocumentMoniker": "Practica_3\\SQL_Scripts\\MiContexto.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\MiContexto.cs",
+              "RelativeToolTip": "Practica_3\\SQL_Scripts\\MiContexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:08:39.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\Cliente.cs",
+              "RelativeDocumentMoniker": "Practica_3\\SQL_Scripts\\Cliente.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\Cliente.cs",
+              "RelativeToolTip": "Practica_3\\SQL_Scripts\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:07:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Practica_3\\SQL_Scripts\\Proveedor.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\Proveedor.cs",
+              "RelativeToolTip": "Practica_3\\SQL_Scripts\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:07:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\Categoria.cs",
+              "RelativeDocumentMoniker": "Practica_3\\SQL_Scripts\\Categoria.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\SQL_Scripts\\Categoria.cs",
+              "RelativeToolTip": "Practica_3\\SQL_Scripts\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:06:43.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Productos.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Productos.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Productos.cs",
+              "RelativeToolTip": "Practica_3\\Productos.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:58:45.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Categorias.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Categorias.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Categorias.cs",
+              "RelativeToolTip": "Practica_3\\Categorias.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T00:00:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Productos.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Productos.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Productos.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Productos.cs [Design]",
+              "RelativeToolTip": "Practica_3\\Productos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:09:03.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Proveedores.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Proveedores.cs",
+              "RelativeToolTip": "Practica_3\\Proveedores.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAQwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:40:59.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Clientes.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Clientes.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Clientes.cs",
+              "RelativeToolTip": "Practica_3\\Clientes.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:58:59.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\App.config",
+              "RelativeDocumentMoniker": "Practica_3\\App.config",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\App.config",
+              "RelativeToolTip": "Practica_3\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-08T00:35:03.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Productos.Designer.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Productos.Designer.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Productos.Designer.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Productos.Designer.cs",
+              "RelativeToolTip": "Practica_3\\Productos.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAtwG8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:02:03.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Clientes.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Clientes.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Clientes.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Clientes.cs [Design]",
+              "RelativeToolTip": "Practica_3\\Clientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:08:55.709Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Proveedores.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Proveedores.cs",
+              "RelativeDocumentMoniker": "Practica_3\\Proveedores.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_3\\Practica_3\\Practica_3\\Proveedores.cs [Design]",
+              "RelativeToolTip": "Practica_3\\Proveedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:09:06.914Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
