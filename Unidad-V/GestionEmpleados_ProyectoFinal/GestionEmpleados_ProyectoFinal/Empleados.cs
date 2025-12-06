@@ -210,6 +210,12 @@ namespace ManejoDeEmpleados
                 return;
             }
 
+            if (DT_Fecha_Add_Empleado.Value.Date > DateTime.Today)
+            {
+                MessageBox.Show("La fecha de inicio no puede ser una fecha futura.");
+                return;
+            }
+
             using (var db = new MiContexto())
             {
                 var nuevoEmpleado = new Empleado
@@ -332,6 +338,12 @@ namespace ManejoDeEmpleados
                 if (salario <= 0)
                 {
                     MessageBox.Show("El salario debe ser mayor que 0.");
+                    return;
+                }
+
+                if (DT_Fecha_Edit_Empleado.Value.Date > DateTime.Today)
+                {
+                    MessageBox.Show("La fecha de inicio no puede ser una fecha futura.");
                     return;
                 }
 

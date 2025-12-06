@@ -1,44 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\",
+  "WorkspaceRootPath": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_5\\gestionempleados_proyectofinal\\gestionempleados_proyectofinal\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|d:\\archivos de usuario\\github\\programacion-ii\\unidad-v\\gestionempleados_proyectofinal\\gestionempleados_proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\cargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Manejo de empleados||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\gestionempleados_proyectofinal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|solutionrelative:gestionempleados_proyectofinal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D61336D-C901-44FF-8978-668428F8B627}|GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\inf-4312 lenguaje de programacion ii\\codigo\\unidad_5\\gestionempleados_proyectofinal\\gestionempleados_proyectofinal\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,84 +59,79 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Manejo de empleados",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj",
-              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj",
+              "ToolTip": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj",
               "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Manejo de empleados.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-06T01:29:42.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T01:29:42.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cargos.cs",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Cargos.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Cargos.cs",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Cargos.cs",
-              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Cargos.cs",
+              "ToolTip": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Cargos.cs",
               "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Cargos.cs",
               "ViewState": "AgIAANcAAAAAAAAAAADwv2MAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T01:36:44.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T01:36:44.32Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Cargos.cs [Design]",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Cargos.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Cargos.cs",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Cargos.cs",
               "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Cargos.cs [Design]",
-              "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Cargos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Cargos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T01:36:38.603Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-06T01:36:38.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Departamentos.cs",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Departamentos.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Departamentos.cs",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Departamentos.cs",
-              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Departamentos.cs",
+              "ToolTip": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Departamentos.cs",
               "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Departamentos.cs",
               "ViewState": "AgIAAMYAAAAAAAAAAIAwwI4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T01:37:12.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T01:37:12.48Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Departamentos.cs [Design]",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Departamentos.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Departamentos.cs",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Departamentos.cs",
               "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Departamentos.cs [Design]",
-              "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Departamentos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Departamentos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T01:37:04.941Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-06T01:37:04.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Empleados.cs",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Empleados.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Empleados.cs",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Empleados.cs",
-              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Empleados.cs",
+              "ToolTip": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Empleados.cs",
               "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Empleados.cs",
-              "ViewState": "AgIAAFkBAAAAAAAAAAAkwIIBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALsAAAAAAAAAAAAcwMwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T01:37:26.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Empleados.cs [Design]",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Empleados.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Empleados.cs",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Empleados.cs",
-              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Empleados.cs [Design]",
+              "ToolTip": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Empleados.cs [Design]",
               "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Empleados.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T01:37:22.641Z",
@@ -149,26 +141,24 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Menu.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Menu.cs",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Menu.cs",
-              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Menu.cs",
+              "ToolTip": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Menu.cs",
               "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Menu.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T01:37:38.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T01:37:38.02Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Menu.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\GitHub\\Programacion-II\\Unidad-V\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Menu.cs",
               "RelativeDocumentMoniker": "GestionEmpleados_ProyectoFinal\\Menu.cs",
               "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Menu.cs [Design]",
-              "RelativeToolTip": "GestionEmpleados_ProyectoFinal\\Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Materias actuales\\INF-4312 LENGUAJE DE PROGRAMACION II\\Codigo\\Unidad_5\\GestionEmpleados_ProyectoFinal\\GestionEmpleados_ProyectoFinal\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T01:37:31.617Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-06T01:37:31.617Z"
             }
           ]
         }

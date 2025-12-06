@@ -37,3 +37,22 @@ D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACI
 D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_5\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\Manejo d.9C83E250.Up2Date
 D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_5\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.exe
 D:\Archivos de usuario\Desktop\Materias actuales\INF-4312 LENGUAJE DE PROGRAMACION II\Codigo\Unidad_5\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.pdb
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\bin\Debug\ManejoDeEmpleados.exe.config
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\bin\Debug\ManejoDeEmpleados.exe
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\bin\Debug\ManejoDeEmpleados.pdb
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\bin\Debug\EntityFramework.dll
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\bin\Debug\EntityFramework.xml
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\Manejo de empleados.csproj.AssemblyReference.cache
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.exe.config
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.Cargos.resources
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.Menu.resources
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.Departamentos.resources
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.Empleados.resources
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.Properties.Resources.resources
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\Manejo de empleados.csproj.GenerateResource.cache
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\Manejo de empleados.csproj.CoreCompileInputs.cache
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\Manejo d.9C83E250.Up2Date
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.exe
+D:\Archivos de usuario\GitHub\Programacion-II\Unidad-V\GestionEmpleados_ProyectoFinal\GestionEmpleados_ProyectoFinal\obj\Debug\ManejoDeEmpleados.pdb
